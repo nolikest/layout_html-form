@@ -1,4 +1,4 @@
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
@@ -6,6 +6,6 @@ fieldset {
   margin-bottom: 10px;
 }
 
-div:last-child {
+.form-field:last-child {
   margin: 0;
 }
